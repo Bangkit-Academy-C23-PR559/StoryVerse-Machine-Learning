@@ -9,3 +9,13 @@ This model will provide recommendations for story titles based on the categories
 [Dataset Link](https://docs.google.com/spreadsheets/d/1nMRjKVzqAi5tfUVgq0mSPj1uasraG2w01FImGD-EwlY/edit?usp=sharing)
 
 This dataset consists of 110 article titles obtained from the internet. Each of the titles is labeled based on their category. The categories used are personal experience, mental health, profession, romance, and mystical.
+we collected data from various sources as follows:
+
+* Medium
+* Healthy Place
+* Tought Catalog
+* Your Tango
+* College Magazine
+* Relationships Reality
+* Your Ghost Stories
+* Harvard College (Student Life)
